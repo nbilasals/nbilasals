@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Nabilla** is an undergraduate Informatics Engineering student at Universitas Halu Oleo. 
+I am an undergraduate Informatics Engineering student.
 
 I'm quite passionate in using _data_ and _AI_ to practical issues. I'm really excited about using technology to positively impact people's lives. I've worked on some projects that have given me experience in **data analysis** and **machine learning**.
 
