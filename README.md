@@ -27,16 +27,17 @@
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Expect the unexpected... ”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
-<br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<br>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me...***
 
-✔ Callme: ***Nabila*** or ***Nab*** or ***Bil*** 🤝 <br>
-✔ Pronouns: **She/her**<br>
-✔ I’m currently learning about **deep learning**👩‍💻<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
-✔ Fun fact : *I love The Smiths. lol* 😎<br><br><br><br>
+🤝 Callme: ***Nabila*** or ***Nab*** or ***Bil*** <br>
+😁 Pronouns: **She/her**<br>
+👩‍💻 I’m currently learning about **deep learning**<br>
+✅ I’m looking to collaborate with any **Open - Source data science projects**<br>
+✨ Fun fact : I love The Smiths lol <br><br>
+
+<hr>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
